@@ -1,0 +1,14 @@
+{
+  "articles": {
+    "description": "",
+    "title": "Articles"
+  },
+  "search": {
+    "description": "",
+    "title": "Search"
+  },
+  "resources": {
+    "title": "Resources",
+    "description": "Browse, preview and download decks, documents, videos and more."
+  }
+}

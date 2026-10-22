@@ -1,0 +1,1769 @@
+{
+  "tags": [
+    {
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "sustainability",
+        "type": "Tag",
+        "createdAt": "2025-07-24T20:14:37.320Z",
+        "updatedAt": "2025-07-24T20:14:37.320Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "version": 1,
+        "visibility": "public"
+      },
+      "name": "Sustainability"
+    }
+  ],
+  "entries": [
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "LOYL9nG1zFTDZr7ev4yNg",
+        "type": "Entry",
+        "createdAt": "2025-07-24T20:15:32.765Z",
+        "updatedAt": "2025-07-24T23:03:49.054Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 22,
+        "publishedAt": "2025-07-24T23:03:49.054Z",
+        "firstPublishedAt": "2025-07-24T20:17:18.061Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 10,
+        "version": 23,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "apps"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/LOYL9nG1zFTDZr7ev4yNg"
+      },
+      "fields": {
+        "appName": {
+          "en-US": "Contentful Web"
+        },
+        "appId": {
+          "en-US": "contentful-web"
+        },
+        "fullColorLogo": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "38sZGcJbaFaAPRsVQn2VZH"
+            }
+          }
+        },
+        "mainNavigation": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2sdbEiK45VYe9FUm64h388"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2bgFbBD1nffTIbBAMOE0k3"
+              }
+            }
+          ]
+        },
+        "secondaryNavigation": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "QR6VxqoknJmZh5GMaFcEk"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "38sZGcJbaFaAPRsVQn2VZH",
+        "type": "Entry",
+        "createdAt": "2025-07-24T20:16:03.198Z",
+        "updatedAt": "2025-07-24T20:16:57.912Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2025-07-24T20:16:57.912Z",
+        "firstPublishedAt": "2025-07-24T20:16:57.912Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "image"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/38sZGcJbaFaAPRsVQn2VZH"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful Logo - Colored"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "27DWbygJDoPl6DSyx1KLhe"
+            }
+          }
+        },
+        "altText": {
+          "en-US": "Contentful Logo"
+        },
+        "nativeImageSize": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "3lwizflEH394Iz91rBkq8G",
+        "type": "Entry",
+        "createdAt": "2025-07-24T20:55:55.370Z",
+        "updatedAt": "2025-07-24T23:09:05.707Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 12,
+        "publishedAt": "2025-07-24T23:09:05.707Z",
+        "firstPublishedAt": "2025-07-24T20:56:24.235Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 13,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "page"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/3lwizflEH394Iz91rBkq8G"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Homepage"
+        },
+        "slug": {
+          "en-US": "homepage"
+        },
+        "specialtyPage": {
+          "en-US": "Homepage"
+        },
+        "pageHero": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6MV2yud59zPZTDgAGRhJhx"
+            }
+          }
+        },
+        "seo": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "53ELhX0jcDCruozrRIUwut"
+            }
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "53ELhX0jcDCruozrRIUwut",
+        "type": "Entry",
+        "createdAt": "2025-07-24T21:03:20.650Z",
+        "updatedAt": "2025-07-24T21:04:42.363Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 8,
+        "publishedAt": "2025-07-24T21:04:42.363Z",
+        "firstPublishedAt": "2025-07-24T21:04:42.363Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 9,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "metadata"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/53ELhX0jcDCruozrRIUwut"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Homepage Metadata - 7.20.25"
+        },
+        "title": {
+          "en-US": "Contentful Web Starter"
+        },
+        "searchEngineVisibility": {
+          "en-US": "follow"
+        },
+        "searchIndex": {
+          "en-US": "index"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "2sdbEiK45VYe9FUm64h388",
+        "type": "Entry",
+        "createdAt": "2025-07-24T22:36:05.831Z",
+        "updatedAt": "2025-07-24T22:41:21.424Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2025-07-24T22:41:21.424Z",
+        "firstPublishedAt": "2025-07-24T22:41:21.424Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/2sdbEiK45VYe9FUm64h388"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "ACES Repo Menu Item"
+        },
+        "title": {
+          "en-US": "ACES Repo"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "6DKtSsxkH4cYgFh8cdPZGz"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "6DKtSsxkH4cYgFh8cdPZGz",
+        "type": "Entry",
+        "createdAt": "2025-07-24T22:37:20.399Z",
+        "updatedAt": "2025-07-24T22:41:09.313Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2025-07-24T22:41:09.313Z",
+        "firstPublishedAt": "2025-07-24T22:41:09.313Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6DKtSsxkH4cYgFh8cdPZGz"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "ACES Repo Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://github.com/aces-core/aces"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "QR6VxqoknJmZh5GMaFcEk",
+        "type": "Entry",
+        "createdAt": "2025-07-24T22:50:08.457Z",
+        "updatedAt": "2025-07-24T22:50:41.658Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2025-07-24T22:50:41.658Z",
+        "firstPublishedAt": "2025-07-24T22:50:38.866Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/QR6VxqoknJmZh5GMaFcEk"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful Login Menu Item"
+        },
+        "title": {
+          "en-US": "Contentful Login"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4VPVX0oAX6KsFR9OCgf4Aj"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "4VPVX0oAX6KsFR9OCgf4Aj",
+        "type": "Entry",
+        "createdAt": "2025-07-24T22:50:24.048Z",
+        "updatedAt": "2025-07-24T22:50:36.423Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T22:50:36.423Z",
+        "firstPublishedAt": "2025-07-24T22:50:36.423Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/4VPVX0oAX6KsFR9OCgf4Aj"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful Login Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://be.contentful.com/login/"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "2bgFbBD1nffTIbBAMOE0k3",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:00:45.801Z",
+        "updatedAt": "2025-07-24T23:03:45.528Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2025-07-24T23:03:45.528Z",
+        "firstPublishedAt": "2025-07-24T23:03:45.528Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "dropdownMenu"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/2bgFbBD1nffTIbBAMOE0k3"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Service Docs Dropdown Menu"
+        },
+        "title": {
+          "en-US": "Service Docs"
+        },
+        "menuItems": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3iIDMFael9Ax28oAd8o47V"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "6ZNsrRg2Pi2J4SFjXDhQh5"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "33pn74TYOPDNg8U8OCil37"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "3iIDMFael9Ax28oAd8o47V",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:01:03.124Z",
+        "updatedAt": "2025-07-24T23:02:14.844Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 6,
+        "publishedAt": "2025-07-24T23:02:14.844Z",
+        "firstPublishedAt": "2025-07-24T23:02:14.844Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 7,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/3iIDMFael9Ax28oAd8o47V"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful API Docs Menu Link"
+        },
+        "title": {
+          "en-US": "Contentful API"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "UTHpurowp7LWq0ClayOWx"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "UTHpurowp7LWq0ClayOWx",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:01:28.251Z",
+        "updatedAt": "2025-07-24T23:02:00.660Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T23:02:00.660Z",
+        "firstPublishedAt": "2025-07-24T23:02:00.660Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/UTHpurowp7LWq0ClayOWx"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful API Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://www.contentful.com/developers/docs/references/"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "6ZNsrRg2Pi2J4SFjXDhQh5",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:02:19.286Z",
+        "updatedAt": "2025-07-24T23:02:51.559Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 5,
+        "publishedAt": "2025-07-24T23:02:51.559Z",
+        "firstPublishedAt": "2025-07-24T23:02:51.559Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 6,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6ZNsrRg2Pi2J4SFjXDhQh5"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Next.js Docs Menu Item"
+        },
+        "title": {
+          "en-US": "Next.js Docs"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "znSCzOYE1bYrlueIudbAn"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "znSCzOYE1bYrlueIudbAn",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:02:35.828Z",
+        "updatedAt": "2025-07-24T23:02:48.672Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T23:02:48.672Z",
+        "firstPublishedAt": "2025-07-24T23:02:48.672Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/znSCzOYE1bYrlueIudbAn"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Next.js Docs Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://nextjs.org/docs"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "33pn74TYOPDNg8U8OCil37",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:03:16.801Z",
+        "updatedAt": "2025-07-24T23:03:43.806Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2025-07-24T23:03:43.806Z",
+        "firstPublishedAt": "2025-07-24T23:03:43.806Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/33pn74TYOPDNg8U8OCil37"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Vercel Docs Menu Item"
+        },
+        "title": {
+          "en-US": "Vercel Docs"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5Y7cHMKZSUZfh0Re2kPyqR"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "5Y7cHMKZSUZfh0Re2kPyqR",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:03:32.902Z",
+        "updatedAt": "2025-07-24T23:03:42.107Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T23:03:42.107Z",
+        "firstPublishedAt": "2025-07-24T23:03:42.107Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/5Y7cHMKZSUZfh0Re2kPyqR"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Vercel Docs Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://vercel.com/docs"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "6MV2yud59zPZTDgAGRhJhx",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:06:11.816Z",
+        "updatedAt": "2025-07-24T23:09:36.450Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 17,
+        "publishedAt": "2025-07-24T23:09:36.450Z",
+        "firstPublishedAt": "2025-07-24T23:09:03.680Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 18,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "imageOverlayHero"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6MV2yud59zPZTDgAGRhJhx"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "ACES Overview Hero"
+        },
+        "headline": {
+          "en-US": "ACES Core"
+        },
+        "subhead": {
+          "en-US": "A production frontend framework for composable services"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4QJdDq7Iu5rNfTYZYUULr9"
+            }
+          }
+        },
+        "fullOverlay": {
+          "en-US": true
+        },
+        "slim": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "4QJdDq7Iu5rNfTYZYUULr9",
+        "type": "Entry",
+        "createdAt": "2025-07-24T23:08:29.868Z",
+        "updatedAt": "2025-07-24T23:12:25.862Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2025-07-24T23:12:25.862Z",
+        "firstPublishedAt": "2025-07-24T23:08:57.327Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 3,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "image"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/4QJdDq7Iu5rNfTYZYUULr9"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Hero Image"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6Bsgn9hklPZCCBKGTFvenc"
+            }
+          }
+        },
+        "nativeImageSize": {
+          "en-US": false
+        }
+      }
+    }
+  ],
+  "assets": [
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "27DWbygJDoPl6DSyx1KLhe",
+        "type": "Asset",
+        "createdAt": "2025-07-24T20:16:29.483Z",
+        "updatedAt": "2025-07-24T20:16:37.871Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T20:16:37.871Z",
+        "firstPublishedAt": "2025-07-24T20:16:37.871Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/assets/27DWbygJDoPl6DSyx1KLhe"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Contentful"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/mye01lpc35o8/27DWbygJDoPl6DSyx1KLhe/1e5950a6ecba7c5773916f5e7ae60a17/Contentful.png",
+            "details": {
+              "size": 12941,
+              "image": {
+                "width": 350,
+                "height": 150
+              }
+            },
+            "fileName": "Contentful.png",
+            "contentType": "image/png"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "mye01lpc35o8"
+          }
+        },
+        "id": "6Bsgn9hklPZCCBKGTFvenc",
+        "type": "Asset",
+        "createdAt": "2025-07-24T23:12:16.231Z",
+        "updatedAt": "2025-07-24T23:12:23.190Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2025-07-24T23:12:23.190Z",
+        "firstPublishedAt": "2025-07-24T23:12:23.190Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/assets/6Bsgn9hklPZCCBKGTFvenc"
+      },
+      "fields": {
+        "title": {
+          "en-US": "contentful-hero"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/mye01lpc35o8/6Bsgn9hklPZCCBKGTFvenc/2f3e8450ca823c6328327c7fe565ebf9/contentful-hero.webp",
+            "details": {
+              "size": 16422,
+              "image": {
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "fileName": "contentful-hero.webp",
+            "contentType": "image/webp"
+          }
+        }
+      }
+    }
+  ]
+}
