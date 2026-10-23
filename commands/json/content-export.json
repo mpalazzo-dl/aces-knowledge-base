@@ -6,13 +6,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
         "id": "sustainability",
         "type": "Tag",
-        "createdAt": "2025-07-24T20:14:37.320Z",
-        "updatedAt": "2025-07-24T20:14:37.320Z",
+        "createdAt": "2026-10-22T20:35:51.873Z",
+        "updatedAt": "2026-10-22T20:36:09.307Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -34,7 +34,7 @@
             "id": "1uYeCiJqupCd3UsVMZRFhQ"
           }
         },
-        "version": 1,
+        "version": 2,
         "visibility": "public"
       },
       "name": "Sustainability"
@@ -53,128 +53,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "LOYL9nG1zFTDZr7ev4yNg",
-        "type": "Entry",
-        "createdAt": "2025-07-24T20:15:32.765Z",
-        "updatedAt": "2025-07-24T23:03:49.054Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 22,
-        "publishedAt": "2025-07-24T23:03:49.054Z",
-        "firstPublishedAt": "2025-07-24T20:17:18.061Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 10,
-        "version": 23,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "apps"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/LOYL9nG1zFTDZr7ev4yNg"
-      },
-      "fields": {
-        "appName": {
-          "en-US": "Contentful Web"
-        },
-        "appId": {
-          "en-US": "contentful-web"
-        },
-        "fullColorLogo": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Entry",
-              "id": "38sZGcJbaFaAPRsVQn2VZH"
-            }
-          }
-        },
-        "mainNavigation": {
-          "en-US": [
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "2sdbEiK45VYe9FUm64h388"
-              }
-            },
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "2bgFbBD1nffTIbBAMOE0k3"
-              }
-            }
-          ]
-        },
-        "secondaryNavigation": {
-          "en-US": [
-            {
-              "sys": {
-                "type": "Link",
-                "linkType": "Entry",
-                "id": "QR6VxqoknJmZh5GMaFcEk"
-              }
-            }
-          ]
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
         "id": "38sZGcJbaFaAPRsVQn2VZH",
         "type": "Entry",
-        "createdAt": "2025-07-24T20:16:03.198Z",
-        "updatedAt": "2025-07-24T20:16:57.912Z",
+        "createdAt": "2026-10-22T20:36:30.814Z",
+        "updatedAt": "2026-10-22T20:36:32.671Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -182,9 +67,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2025-07-24T20:16:57.912Z",
-        "firstPublishedAt": "2025-07-24T20:16:57.912Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:32.671Z",
+        "firstPublishedAt": "2026-10-22T20:36:32.671Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -200,7 +85,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 6,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -222,7 +107,7 @@
             "id": "image"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/38sZGcJbaFaAPRsVQn2VZH"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/38sZGcJbaFaAPRsVQn2VZH"
       },
       "fields": {
         "internalTitle": {
@@ -257,13 +142,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "3lwizflEH394Iz91rBkq8G",
+        "id": "53ELhX0jcDCruozrRIUwut",
         "type": "Entry",
-        "createdAt": "2025-07-24T20:55:55.370Z",
-        "updatedAt": "2025-07-24T23:09:05.707Z",
+        "createdAt": "2026-10-22T20:36:30.830Z",
+        "updatedAt": "2026-10-22T20:36:33.006Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -271,9 +156,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 12,
-        "publishedAt": "2025-07-24T23:09:05.707Z",
-        "firstPublishedAt": "2025-07-24T20:56:24.235Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:33.006Z",
+        "firstPublishedAt": "2026-10-22T20:36:33.006Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -288,8 +173,972 @@
             "id": "1uYeCiJqupCd3UsVMZRFhQ"
           }
         },
-        "publishedCounter": 4,
-        "version": 13,
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "metadata"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/53ELhX0jcDCruozrRIUwut"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Homepage Metadata - 7.20.25"
+        },
+        "title": {
+          "en-US": "Contentful Web Starter"
+        },
+        "searchEngineVisibility": {
+          "en-US": "follow"
+        },
+        "searchIndex": {
+          "en-US": "index"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "6DKtSsxkH4cYgFh8cdPZGz",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:30.855Z",
+        "updatedAt": "2026-10-22T20:36:33.285Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:33.285Z",
+        "firstPublishedAt": "2026-10-22T20:36:33.285Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/6DKtSsxkH4cYgFh8cdPZGz"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "ACES Repo Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://github.com/aces-core/aces"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "UTHpurowp7LWq0ClayOWx",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:30.865Z",
+        "updatedAt": "2026-10-22T20:36:33.836Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:33.836Z",
+        "firstPublishedAt": "2026-10-22T20:36:33.836Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/UTHpurowp7LWq0ClayOWx"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful API Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://www.contentful.com/developers/docs/references/"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "4VPVX0oAX6KsFR9OCgf4Aj",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:30.874Z",
+        "updatedAt": "2026-10-22T20:36:33.554Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:33.554Z",
+        "firstPublishedAt": "2026-10-22T20:36:33.554Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/4VPVX0oAX6KsFR9OCgf4Aj"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful Login Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://be.contentful.com/login/"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "znSCzOYE1bYrlueIudbAn",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.305Z",
+        "updatedAt": "2026-10-22T20:36:34.330Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:34.330Z",
+        "firstPublishedAt": "2026-10-22T20:36:34.330Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/znSCzOYE1bYrlueIudbAn"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Next.js Docs Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://nextjs.org/docs"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "5Y7cHMKZSUZfh0Re2kPyqR",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.312Z",
+        "updatedAt": "2026-10-22T20:36:34.569Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:34.569Z",
+        "firstPublishedAt": "2026-10-22T20:36:34.569Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "link"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/5Y7cHMKZSUZfh0Re2kPyqR"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Vercel Docs Link"
+        },
+        "linkType": {
+          "en-US": "Custom Link"
+        },
+        "customLink": {
+          "en-US": "https://vercel.com/docs"
+        },
+        "target": {
+          "en-US": "_blank"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "4QJdDq7Iu5rNfTYZYUULr9",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.317Z",
+        "updatedAt": "2026-10-22T20:36:34.895Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:34.895Z",
+        "firstPublishedAt": "2026-10-22T20:36:34.895Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "image"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/4QJdDq7Iu5rNfTYZYUULr9"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Hero Image"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "6Bsgn9hklPZCCBKGTFvenc"
+            }
+          }
+        },
+        "nativeImageSize": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "33pn74TYOPDNg8U8OCil37",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.324Z",
+        "updatedAt": "2026-10-22T20:36:35.522Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:35.522Z",
+        "firstPublishedAt": "2026-10-22T20:36:35.522Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/33pn74TYOPDNg8U8OCil37"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Vercel Docs Menu Item"
+        },
+        "title": {
+          "en-US": "Vercel Docs"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "5Y7cHMKZSUZfh0Re2kPyqR"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "6MV2yud59zPZTDgAGRhJhx",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.328Z",
+        "updatedAt": "2026-10-22T20:36:35.222Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:35.222Z",
+        "firstPublishedAt": "2026-10-22T20:36:35.222Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "imageOverlayHero"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/6MV2yud59zPZTDgAGRhJhx"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "ACES Overview Hero"
+        },
+        "headline": {
+          "en-US": "ACES Core"
+        },
+        "subhead": {
+          "en-US": "A production frontend framework for composable services"
+        },
+        "image": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "4QJdDq7Iu5rNfTYZYUULr9"
+            }
+          }
+        },
+        "fullOverlay": {
+          "en-US": true
+        },
+        "slim": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "3iIDMFael9Ax28oAd8o47V",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.333Z",
+        "updatedAt": "2026-10-22T20:36:36.085Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:36.085Z",
+        "firstPublishedAt": "2026-10-22T20:36:36.085Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/3iIDMFael9Ax28oAd8o47V"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Contentful API Docs Menu Link"
+        },
+        "title": {
+          "en-US": "Contentful API"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "UTHpurowp7LWq0ClayOWx"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "6ZNsrRg2Pi2J4SFjXDhQh5",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:31.336Z",
+        "updatedAt": "2026-10-22T20:36:35.801Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:35.801Z",
+        "firstPublishedAt": "2026-10-22T20:36:35.801Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "menuItem"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/6ZNsrRg2Pi2J4SFjXDhQh5"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Next.js Docs Menu Item"
+        },
+        "title": {
+          "en-US": "Next.js Docs"
+        },
+        "link": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "znSCzOYE1bYrlueIudbAn"
+            }
+          }
+        },
+        "externalLinkIcon": {
+          "en-US": true
+        },
+        "hideOnDesktop": {
+          "en-US": false
+        },
+        "hideOnMobile": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "3lwizflEH394Iz91rBkq8G",
+        "type": "Entry",
+        "createdAt": "2026-10-22T20:36:32.291Z",
+        "updatedAt": "2026-10-22T20:36:37.311Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:37.311Z",
+        "firstPublishedAt": "2026-10-22T20:36:37.311Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -311,7 +1160,7 @@
             "id": "page"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/3lwizflEH394Iz91rBkq8G"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/3lwizflEH394Iz91rBkq8G"
       },
       "fields": {
         "title": {
@@ -355,274 +1204,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "53ELhX0jcDCruozrRIUwut",
-        "type": "Entry",
-        "createdAt": "2025-07-24T21:03:20.650Z",
-        "updatedAt": "2025-07-24T21:04:42.363Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 8,
-        "publishedAt": "2025-07-24T21:04:42.363Z",
-        "firstPublishedAt": "2025-07-24T21:04:42.363Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 9,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "metadata"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/53ELhX0jcDCruozrRIUwut"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "Homepage Metadata - 7.20.25"
-        },
-        "title": {
-          "en-US": "Contentful Web Starter"
-        },
-        "searchEngineVisibility": {
-          "en-US": "follow"
-        },
-        "searchIndex": {
-          "en-US": "index"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "2sdbEiK45VYe9FUm64h388",
-        "type": "Entry",
-        "createdAt": "2025-07-24T22:36:05.831Z",
-        "updatedAt": "2025-07-24T22:41:21.424Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 6,
-        "publishedAt": "2025-07-24T22:41:21.424Z",
-        "firstPublishedAt": "2025-07-24T22:41:21.424Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 7,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "menuItem"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/2sdbEiK45VYe9FUm64h388"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "ACES Repo Menu Item"
-        },
-        "title": {
-          "en-US": "ACES Repo"
-        },
-        "link": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Entry",
-              "id": "6DKtSsxkH4cYgFh8cdPZGz"
-            }
-          }
-        },
-        "externalLinkIcon": {
-          "en-US": true
-        },
-        "hideOnDesktop": {
-          "en-US": false
-        },
-        "hideOnMobile": {
-          "en-US": false
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "6DKtSsxkH4cYgFh8cdPZGz",
-        "type": "Entry",
-        "createdAt": "2025-07-24T22:37:20.399Z",
-        "updatedAt": "2025-07-24T22:41:09.313Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 5,
-        "publishedAt": "2025-07-24T22:41:09.313Z",
-        "firstPublishedAt": "2025-07-24T22:41:09.313Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 6,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "link"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6DKtSsxkH4cYgFh8cdPZGz"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "ACES Repo Link"
-        },
-        "linkType": {
-          "en-US": "Custom Link"
-        },
-        "customLink": {
-          "en-US": "https://github.com/aces-core/aces"
-        },
-        "target": {
-          "en-US": "_blank"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
         "id": "QR6VxqoknJmZh5GMaFcEk",
         "type": "Entry",
-        "createdAt": "2025-07-24T22:50:08.457Z",
-        "updatedAt": "2025-07-24T22:50:41.658Z",
+        "createdAt": "2026-10-22T20:36:32.318Z",
+        "updatedAt": "2026-10-22T20:36:36.778Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -630,9 +1218,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 6,
-        "publishedAt": "2025-07-24T22:50:41.658Z",
-        "firstPublishedAt": "2025-07-24T22:50:38.866Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:36.778Z",
+        "firstPublishedAt": "2026-10-22T20:36:36.778Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -647,8 +1235,8 @@
             "id": "1uYeCiJqupCd3UsVMZRFhQ"
           }
         },
-        "publishedCounter": 2,
-        "version": 7,
+        "publishedCounter": 1,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -670,7 +1258,7 @@
             "id": "menuItem"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/QR6VxqoknJmZh5GMaFcEk"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/QR6VxqoknJmZh5GMaFcEk"
       },
       "fields": {
         "internalTitle": {
@@ -711,13 +1299,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "4VPVX0oAX6KsFR9OCgf4Aj",
+        "id": "LOYL9nG1zFTDZr7ev4yNg",
         "type": "Entry",
-        "createdAt": "2025-07-24T22:50:24.048Z",
-        "updatedAt": "2025-07-24T22:50:36.423Z",
+        "createdAt": "2026-10-22T20:36:32.327Z",
+        "updatedAt": "2026-10-22T21:50:26.247Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -725,9 +1313,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T22:50:36.423Z",
-        "firstPublishedAt": "2025-07-24T22:50:36.423Z",
+        "publishedVersion": 5,
+        "publishedAt": "2026-10-22T21:50:26.247Z",
+        "firstPublishedAt": "2026-10-22T20:36:37.563Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -742,8 +1330,8 @@
             "id": "1uYeCiJqupCd3UsVMZRFhQ"
           }
         },
-        "publishedCounter": 1,
-        "version": 4,
+        "publishedCounter": 3,
+        "version": 6,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -762,23 +1350,62 @@
           "sys": {
             "type": "Link",
             "linkType": "ContentType",
-            "id": "link"
+            "id": "apps"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/4VPVX0oAX6KsFR9OCgf4Aj"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/LOYL9nG1zFTDZr7ev4yNg"
       },
       "fields": {
-        "internalTitle": {
-          "en-US": "Contentful Login Link"
+        "appName": {
+          "en-US": "Contentful Web"
         },
-        "linkType": {
-          "en-US": "Custom Link"
+        "appId": {
+          "en-US": "contentful-web"
         },
-        "customLink": {
-          "en-US": "https://be.contentful.com/login/"
+        "fullColorLogo": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Entry",
+              "id": "38sZGcJbaFaAPRsVQn2VZH"
+            }
+          }
         },
-        "target": {
-          "en-US": "_blank"
+        "mainNavigation": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "menu-item-resources"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2bgFbBD1nffTIbBAMOE0k3"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "2sdbEiK45VYe9FUm64h388"
+              }
+            }
+          ]
+        },
+        "secondaryNavigation": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "QR6VxqoknJmZh5GMaFcEk"
+              }
+            }
+          ]
         }
       }
     },
@@ -794,13 +1421,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
         "id": "2bgFbBD1nffTIbBAMOE0k3",
         "type": "Entry",
-        "createdAt": "2025-07-24T23:00:45.801Z",
-        "updatedAt": "2025-07-24T23:03:45.528Z",
+        "createdAt": "2026-10-22T20:36:32.336Z",
+        "updatedAt": "2026-10-22T20:36:36.484Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -808,9 +1435,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 6,
-        "publishedAt": "2025-07-24T23:03:45.528Z",
-        "firstPublishedAt": "2025-07-24T23:03:45.528Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:36.484Z",
+        "firstPublishedAt": "2026-10-22T20:36:36.484Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -826,7 +1453,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 7,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -848,7 +1475,7 @@
             "id": "dropdownMenu"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/2bgFbBD1nffTIbBAMOE0k3"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/2bgFbBD1nffTIbBAMOE0k3"
       },
       "fields": {
         "internalTitle": {
@@ -896,13 +1523,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "3iIDMFael9Ax28oAd8o47V",
+        "id": "2sdbEiK45VYe9FUm64h388",
         "type": "Entry",
-        "createdAt": "2025-07-24T23:01:03.124Z",
-        "updatedAt": "2025-07-24T23:02:14.844Z",
+        "createdAt": "2026-10-22T20:36:32.394Z",
+        "updatedAt": "2026-10-22T20:36:37.023Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -910,9 +1537,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 6,
-        "publishedAt": "2025-07-24T23:02:14.844Z",
-        "firstPublishedAt": "2025-07-24T23:02:14.844Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T20:36:37.023Z",
+        "firstPublishedAt": "2026-10-22T20:36:37.023Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -928,7 +1555,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 7,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -950,21 +1577,21 @@
             "id": "menuItem"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/3iIDMFael9Ax28oAd8o47V"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/2sdbEiK45VYe9FUm64h388"
       },
       "fields": {
         "internalTitle": {
-          "en-US": "Contentful API Docs Menu Link"
+          "en-US": "ACES Repo Menu Item"
         },
         "title": {
-          "en-US": "Contentful API"
+          "en-US": "ACES Repo"
         },
         "link": {
           "en-US": {
             "sys": {
               "type": "Link",
               "linkType": "Entry",
-              "id": "UTHpurowp7LWq0ClayOWx"
+              "id": "6DKtSsxkH4cYgFh8cdPZGz"
             }
           }
         },
@@ -991,13 +1618,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "UTHpurowp7LWq0ClayOWx",
+        "id": "category-sales-enablement",
         "type": "Entry",
-        "createdAt": "2025-07-24T23:01:28.251Z",
-        "updatedAt": "2025-07-24T23:02:00.660Z",
+        "createdAt": "2026-10-22T21:22:30.508Z",
+        "updatedAt": "2026-10-22T21:22:30.808Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1005,9 +1632,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T23:02:00.660Z",
-        "firstPublishedAt": "2025-07-24T23:02:00.660Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:30.808Z",
+        "firstPublishedAt": "2026-10-22T21:22:30.808Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1023,7 +1650,1310 @@
           }
         },
         "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "categories"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/category-sales-enablement"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Sales Enablement"
+        },
+        "slug": {
+          "en-US": "sales-enablement"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "category-product-marketing",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:31.199Z",
+        "updatedAt": "2026-10-22T21:22:31.409Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:31.409Z",
+        "firstPublishedAt": "2026-10-22T21:22:31.409Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "categories"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/category-product-marketing"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Product Marketing"
+        },
+        "slug": {
+          "en-US": "product-marketing"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "category-technical",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:31.768Z",
+        "updatedAt": "2026-10-22T21:22:31.982Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:31.982Z",
+        "firstPublishedAt": "2026-10-22T21:22:31.982Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "categories"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/category-technical"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Technical"
+        },
+        "slug": {
+          "en-US": "technical"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "category-brand",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:32.335Z",
+        "updatedAt": "2026-10-22T21:22:32.549Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:32.549Z",
+        "firstPublishedAt": "2026-10-22T21:22:32.549Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "categories"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/category-brand"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Brand"
+        },
+        "slug": {
+          "en-US": "brand"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-platform-overview-deck",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:55.530Z",
+        "updatedAt": "2026-10-22T21:37:39.186Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 7,
+        "publishedAt": "2026-10-22T21:37:39.186Z",
+        "firstPublishedAt": "2026-10-22T21:22:55.808Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 4,
+        "version": 8,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-platform-overview-deck"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Acme Platform Overview Deck"
+        },
+        "title": {
+          "en-US": "Acme Platform Overview Deck"
+        },
+        "slug": {
+          "en-US": "platform-overview-deck"
+        },
+        "description": {
+          "en-US": "The core FY26 sales narrative: the problem, our approach, architecture and customer results. Start every first call here."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-platform-overview-deck"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-sales-enablement"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "deck",
+            "pitch",
+            "overview",
+            "slides"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-10-01"
+        },
+        "featured": {
+          "en-US": true
+        },
+        "relatedResources": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-competitive-battlecard"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-roi-calculator"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-product-demo-video"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-competitive-battlecard",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:56.235Z",
+        "updatedAt": "2026-10-22T21:23:01.927Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2026-10-22T21:23:01.927Z",
+        "firstPublishedAt": "2026-10-22T21:22:56.593Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 2,
         "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-competitive-battlecard"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Competitive Battlecard"
+        },
+        "title": {
+          "en-US": "Competitive Battlecard"
+        },
+        "slug": {
+          "en-US": "competitive-battlecard"
+        },
+        "description": {
+          "en-US": "Positioning, feature comparison and objection handling against legacy sales enablement tools."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-competitive-battlecard"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-sales-enablement"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "competitive",
+            "battlecard",
+            "objections"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-09-15"
+        },
+        "featured": {
+          "en-US": false
+        },
+        "relatedResources": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-platform-overview-deck"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-roi-calculator"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-roi-calculator",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:57.024Z",
+        "updatedAt": "2026-10-22T21:22:57.263Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:57.263Z",
+        "firstPublishedAt": "2026-10-22T21:22:57.263Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-roi-calculator"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - ROI Calculator"
+        },
+        "title": {
+          "en-US": "ROI Calculator"
+        },
+        "slug": {
+          "en-US": "roi-calculator"
+        },
+        "description": {
+          "en-US": "Plug in seller count and hourly cost to estimate annual productivity and license savings."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-roi-calculator"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-sales-enablement"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-product-marketing"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "roi",
+            "pricing",
+            "business case"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-08-20"
+        },
+        "featured": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-trace-jit-whitepaper",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:57.670Z",
+        "updatedAt": "2026-10-22T21:22:57.908Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:57.908Z",
+        "firstPublishedAt": "2026-10-22T21:22:57.908Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-trace-jit-whitepaper"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Technical Whitepaper: Trace-based JIT Compilation"
+        },
+        "title": {
+          "en-US": "Technical Whitepaper: Trace-based JIT Compilation"
+        },
+        "slug": {
+          "en-US": "trace-based-jit-whitepaper"
+        },
+        "description": {
+          "en-US": "A deep-dive technical paper (PLDI '09) used here as a sample multi-page PDF for the inline viewer."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-trace-jit-whitepaper"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-technical"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "whitepaper",
+            "engineering",
+            "performance"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-07-10"
+        },
+        "featured": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-product-demo-video",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:58.341Z",
+        "updatedAt": "2026-10-22T21:23:02.564Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2026-10-22T21:23:02.564Z",
+        "firstPublishedAt": "2026-10-22T21:22:58.569Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 2,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-product-demo-video"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Product Demo Video"
+        },
+        "title": {
+          "en-US": "Product Demo Video"
+        },
+        "slug": {
+          "en-US": "product-demo-video"
+        },
+        "description": {
+          "en-US": "A short sample video to demonstrate inline video playback on cards, quick view and the detail page."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-product-demo-video"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-product-marketing"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "video",
+            "demo"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-10-10"
+        },
+        "featured": {
+          "en-US": true
+        },
+        "relatedResources": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-platform-overview-deck"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "resource-podcast-teaser"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-podcast-teaser",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:59.041Z",
+        "updatedAt": "2026-10-22T21:22:59.389Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:59.389Z",
+        "firstPublishedAt": "2026-10-22T21:22:59.389Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-podcast-teaser"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Podcast Teaser"
+        },
+        "title": {
+          "en-US": "Podcast Teaser"
+        },
+        "slug": {
+          "en-US": "podcast-teaser"
+        },
+        "description": {
+          "en-US": "A short sample audio clip to demonstrate inline audio playback."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-podcast-teaser"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-product-marketing"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "audio",
+            "podcast"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-06-30"
+        },
+        "featured": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-macro-photography",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:22:59.786Z",
+        "updatedAt": "2026-10-22T21:22:59.999Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:22:59.999Z",
+        "firstPublishedAt": "2026-10-22T21:22:59.999Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-macro-photography"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Macro Photography Sample"
+        },
+        "title": {
+          "en-US": "Macro Photography Sample"
+        },
+        "slug": {
+          "en-US": "macro-photography-sample"
+        },
+        "description": {
+          "en-US": "A high-resolution brand photography sample served through the Contentful Images API."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-macro-photography"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-brand"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "photo",
+            "image",
+            "brand"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-05-12"
+        },
+        "featured": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "resource-event-photo-pack",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:23:00.404Z",
+        "updatedAt": "2026-10-22T21:23:00.612Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:23:00.612Z",
+        "firstPublishedAt": "2026-10-22T21:23:00.612Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "automationTags": [
+        ],
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "resource"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/resource-event-photo-pack"
+      },
+      "fields": {
+        "internalTitle": {
+          "en-US": "Resource - Event Photo Pack"
+        },
+        "title": {
+          "en-US": "Event Photo Pack"
+        },
+        "slug": {
+          "en-US": "event-photo-pack"
+        },
+        "description": {
+          "en-US": "A ZIP of high-resolution event photos (~12 MB). Over 4 MB, so downloads redirect to the Contentful CDN."
+        },
+        "file": {
+          "en-US": {
+            "sys": {
+              "type": "Link",
+              "linkType": "Asset",
+              "id": "asset-event-photo-pack"
+            }
+          }
+        },
+        "categories": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "category-brand"
+              }
+            }
+          ]
+        },
+        "searchKeywords": {
+          "en-US": [
+            "photos",
+            "zip",
+            "event"
+          ]
+        },
+        "publishDate": {
+          "en-US": "2026-04-02"
+        },
+        "featured": {
+          "en-US": false
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "link-resources-directory",
+        "type": "Entry",
+        "createdAt": "2026-10-22T21:23:02.951Z",
+        "updatedAt": "2026-10-22T21:23:03.289Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:23:03.289Z",
+        "firstPublishedAt": "2026-10-22T21:23:03.289Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1045,20 +2975,20 @@
             "id": "link"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/UTHpurowp7LWq0ClayOWx"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/link-resources-directory"
       },
       "fields": {
         "internalTitle": {
-          "en-US": "Contentful API Link"
+          "en-US": "Link - Resources Directory"
         },
         "linkType": {
           "en-US": "Custom Link"
         },
         "customLink": {
-          "en-US": "https://www.contentful.com/developers/docs/references/"
+          "en-US": "/resources"
         },
         "target": {
-          "en-US": "_blank"
+          "en-US": "_self"
         }
       }
     },
@@ -1074,13 +3004,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "6ZNsrRg2Pi2J4SFjXDhQh5",
+        "id": "menu-item-resources",
         "type": "Entry",
-        "createdAt": "2025-07-24T23:02:19.286Z",
-        "updatedAt": "2025-07-24T23:02:51.559Z",
+        "createdAt": "2026-10-22T21:23:03.706Z",
+        "updatedAt": "2026-10-22T21:23:03.935Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1088,9 +3018,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2025-07-24T23:02:51.559Z",
-        "firstPublishedAt": "2025-07-24T23:02:51.559Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:23:03.935Z",
+        "firstPublishedAt": "2026-10-22T21:23:03.935Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1106,7 +3036,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 6,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1128,26 +3058,26 @@
             "id": "menuItem"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6ZNsrRg2Pi2J4SFjXDhQh5"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/menu-item-resources"
       },
       "fields": {
         "internalTitle": {
-          "en-US": "Next.js Docs Menu Item"
+          "en-US": "Menu Item - Resources"
         },
         "title": {
-          "en-US": "Next.js Docs"
+          "en-US": "Resources"
         },
         "link": {
           "en-US": {
             "sys": {
               "type": "Link",
               "linkType": "Entry",
-              "id": "znSCzOYE1bYrlueIudbAn"
+              "id": "link-resources-directory"
             }
           }
         },
         "externalLinkIcon": {
-          "en-US": true
+          "en-US": false
         },
         "hideOnDesktop": {
           "en-US": false
@@ -1169,13 +3099,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "znSCzOYE1bYrlueIudbAn",
+        "id": "image-platform-overview-cover",
         "type": "Entry",
-        "createdAt": "2025-07-24T23:02:35.828Z",
-        "updatedAt": "2025-07-24T23:02:48.672Z",
+        "createdAt": "2026-10-22T21:27:15.961Z",
+        "updatedAt": "2026-10-22T21:27:16.191Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1183,9 +3113,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T23:02:48.672Z",
-        "firstPublishedAt": "2025-07-24T23:02:48.672Z",
+        "publishedVersion": 1,
+        "publishedAt": "2026-10-22T21:27:16.191Z",
+        "firstPublishedAt": "2026-10-22T21:27:16.191Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1201,363 +3131,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "link"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/znSCzOYE1bYrlueIudbAn"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "Next.js Docs Link"
-        },
-        "linkType": {
-          "en-US": "Custom Link"
-        },
-        "customLink": {
-          "en-US": "https://nextjs.org/docs"
-        },
-        "target": {
-          "en-US": "_blank"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "33pn74TYOPDNg8U8OCil37",
-        "type": "Entry",
-        "createdAt": "2025-07-24T23:03:16.801Z",
-        "updatedAt": "2025-07-24T23:03:43.806Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 4,
-        "publishedAt": "2025-07-24T23:03:43.806Z",
-        "firstPublishedAt": "2025-07-24T23:03:43.806Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 5,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "menuItem"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/33pn74TYOPDNg8U8OCil37"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "Vercel Docs Menu Item"
-        },
-        "title": {
-          "en-US": "Vercel Docs"
-        },
-        "link": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Entry",
-              "id": "5Y7cHMKZSUZfh0Re2kPyqR"
-            }
-          }
-        },
-        "externalLinkIcon": {
-          "en-US": true
-        },
-        "hideOnDesktop": {
-          "en-US": false
-        },
-        "hideOnMobile": {
-          "en-US": false
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "5Y7cHMKZSUZfh0Re2kPyqR",
-        "type": "Entry",
-        "createdAt": "2025-07-24T23:03:32.902Z",
-        "updatedAt": "2025-07-24T23:03:42.107Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T23:03:42.107Z",
-        "firstPublishedAt": "2025-07-24T23:03:42.107Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 1,
-        "version": 4,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "link"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/5Y7cHMKZSUZfh0Re2kPyqR"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "Vercel Docs Link"
-        },
-        "linkType": {
-          "en-US": "Custom Link"
-        },
-        "customLink": {
-          "en-US": "https://vercel.com/docs"
-        },
-        "target": {
-          "en-US": "_blank"
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "6MV2yud59zPZTDgAGRhJhx",
-        "type": "Entry",
-        "createdAt": "2025-07-24T23:06:11.816Z",
-        "updatedAt": "2025-07-24T23:09:36.450Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 17,
-        "publishedAt": "2025-07-24T23:09:36.450Z",
-        "firstPublishedAt": "2025-07-24T23:09:03.680Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 18,
-        "publishedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "fieldStatus": {
-          "*": {
-            "en-US": "published"
-          }
-        },
-        "automationTags": [
-        ],
-        "contentType": {
-          "sys": {
-            "type": "Link",
-            "linkType": "ContentType",
-            "id": "imageOverlayHero"
-          }
-        },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/6MV2yud59zPZTDgAGRhJhx"
-      },
-      "fields": {
-        "internalTitle": {
-          "en-US": "ACES Overview Hero"
-        },
-        "headline": {
-          "en-US": "ACES Core"
-        },
-        "subhead": {
-          "en-US": "A production frontend framework for composable services"
-        },
-        "image": {
-          "en-US": {
-            "sys": {
-              "type": "Link",
-              "linkType": "Entry",
-              "id": "4QJdDq7Iu5rNfTYZYUULr9"
-            }
-          }
-        },
-        "fullOverlay": {
-          "en-US": true
-        },
-        "slim": {
-          "en-US": false
-        }
-      }
-    },
-    {
-      "metadata": {
-        "tags": [
-        ],
-        "concepts": [
-        ]
-      },
-      "sys": {
-        "space": {
-          "sys": {
-            "type": "Link",
-            "linkType": "Space",
-            "id": "mye01lpc35o8"
-          }
-        },
-        "id": "4QJdDq7Iu5rNfTYZYUULr9",
-        "type": "Entry",
-        "createdAt": "2025-07-24T23:08:29.868Z",
-        "updatedAt": "2025-07-24T23:12:25.862Z",
-        "environment": {
-          "sys": {
-            "id": "master",
-            "type": "Link",
-            "linkType": "Environment"
-          }
-        },
-        "publishedVersion": 9,
-        "publishedAt": "2025-07-24T23:12:25.862Z",
-        "firstPublishedAt": "2025-07-24T23:08:57.327Z",
-        "createdBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "updatedBy": {
-          "sys": {
-            "type": "Link",
-            "linkType": "User",
-            "id": "1uYeCiJqupCd3UsVMZRFhQ"
-          }
-        },
-        "publishedCounter": 3,
-        "version": 10,
+        "version": 2,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1579,20 +3153,23 @@
             "id": "image"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/entries/4QJdDq7Iu5rNfTYZYUULr9"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/entries/image-platform-overview-cover"
       },
       "fields": {
         "internalTitle": {
-          "en-US": "Hero Image"
+          "en-US": "Image - Platform Overview Deck Cover"
         },
         "image": {
           "en-US": {
             "sys": {
               "type": "Link",
               "linkType": "Asset",
-              "id": "6Bsgn9hklPZCCBKGTFvenc"
+              "id": "asset-platform-overview-cover"
             }
           }
+        },
+        "altText": {
+          "en-US": "Acme Cloud Platform overview deck title slide"
         },
         "nativeImageSize": {
           "en-US": false
@@ -1613,13 +3190,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "27DWbygJDoPl6DSyx1KLhe",
+        "id": "6Bsgn9hklPZCCBKGTFvenc",
         "type": "Asset",
-        "createdAt": "2025-07-24T20:16:29.483Z",
-        "updatedAt": "2025-07-24T20:16:37.871Z",
+        "createdAt": "2026-10-22T20:36:09.526Z",
+        "updatedAt": "2026-10-22T20:36:30.574Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1627,9 +3204,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T20:16:37.871Z",
-        "firstPublishedAt": "2025-07-24T20:16:37.871Z",
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T20:36:30.574Z",
+        "firstPublishedAt": "2026-10-22T20:36:30.574Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1645,7 +3222,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 4,
+        "version": 3,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1658,7 +3235,89 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/assets/27DWbygJDoPl6DSyx1KLhe"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/6Bsgn9hklPZCCBKGTFvenc"
+      },
+      "fields": {
+        "title": {
+          "en-US": "contentful-hero"
+        },
+        "description": {
+          "en-US": ""
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/rv2gyq219937/6Bsgn9hklPZCCBKGTFvenc/81272eecf8303fac512b04722ac5759f/contentful-hero.webp",
+            "details": {
+              "size": 16422,
+              "image": {
+                "width": 1920,
+                "height": 1080
+              }
+            },
+            "fileName": "contentful-hero.webp",
+            "contentType": "image/webp"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "27DWbygJDoPl6DSyx1KLhe",
+        "type": "Asset",
+        "createdAt": "2026-10-22T20:36:09.546Z",
+        "updatedAt": "2026-10-22T20:36:30.307Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T20:36:30.307Z",
+        "firstPublishedAt": "2026-10-22T20:36:30.307Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/27DWbygJDoPl6DSyx1KLhe"
       },
       "fields": {
         "title": {
@@ -1669,7 +3328,7 @@
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/mye01lpc35o8/27DWbygJDoPl6DSyx1KLhe/1e5950a6ecba7c5773916f5e7ae60a17/Contentful.png",
+            "url": "//images.ctfassets.net/rv2gyq219937/27DWbygJDoPl6DSyx1KLhe/fd1010c46ee29a86e7986af2ca1b514d/Contentful.png",
             "details": {
               "size": 12941,
               "image": {
@@ -1695,13 +3354,13 @@
           "sys": {
             "type": "Link",
             "linkType": "Space",
-            "id": "mye01lpc35o8"
+            "id": "rv2gyq219937"
           }
         },
-        "id": "6Bsgn9hklPZCCBKGTFvenc",
+        "id": "asset-platform-overview-deck",
         "type": "Asset",
-        "createdAt": "2025-07-24T23:12:16.231Z",
-        "updatedAt": "2025-07-24T23:12:23.190Z",
+        "createdAt": "2026-10-22T21:22:33.113Z",
+        "updatedAt": "2026-10-22T21:22:35.096Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1709,9 +3368,9 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 3,
-        "publishedAt": "2025-07-24T23:12:23.190Z",
-        "firstPublishedAt": "2025-07-24T23:12:23.190Z",
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:35.096Z",
+        "firstPublishedAt": "2026-10-22T21:22:35.096Z",
         "createdBy": {
           "sys": {
             "type": "Link",
@@ -1727,7 +3386,7 @@
           }
         },
         "publishedCounter": 1,
-        "version": 4,
+        "version": 3,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1740,27 +3399,655 @@
             "en-US": "published"
           }
         },
-        "urn": "crn:contentful:::content:spaces/mye01lpc35o8/environments/master/assets/6Bsgn9hklPZCCBKGTFvenc"
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-platform-overview-deck"
       },
       "fields": {
         "title": {
-          "en-US": "contentful-hero"
+          "en-US": "Acme Platform Overview Deck"
         },
         "description": {
-          "en-US": ""
+          "en-US": "Sample PowerPoint deck"
         },
         "file": {
           "en-US": {
-            "url": "//images.ctfassets.net/mye01lpc35o8/6Bsgn9hklPZCCBKGTFvenc/2f3e8450ca823c6328327c7fe565ebf9/contentful-hero.webp",
+            "url": "//assets.ctfassets.net/rv2gyq219937/asset-platform-overview-deck/c250b912c51f5fe5ad588ece8119aa14/acme-platform-overview.pptx",
             "details": {
-              "size": 16422,
+              "size": 82142
+            },
+            "fileName": "acme-platform-overview.pptx",
+            "contentType": "application/vnd.openxmlformats-officedocument.presentationml.presentation"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-competitive-battlecard",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:35.696Z",
+        "updatedAt": "2026-10-22T21:22:37.651Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:37.651Z",
+        "firstPublishedAt": "2026-10-22T21:22:37.651Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-competitive-battlecard"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Competitive Battlecard"
+        },
+        "description": {
+          "en-US": "Sample Word document"
+        },
+        "file": {
+          "en-US": {
+            "url": "//assets.ctfassets.net/rv2gyq219937/asset-competitive-battlecard/c82050ceca98678081f9214e8f762854/competitive-battlecard.docx",
+            "details": {
+              "size": 8383
+            },
+            "fileName": "competitive-battlecard.docx",
+            "contentType": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-roi-calculator",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:38.114Z",
+        "updatedAt": "2026-10-22T21:22:40.107Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:40.107Z",
+        "firstPublishedAt": "2026-10-22T21:22:40.107Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-roi-calculator"
+      },
+      "fields": {
+        "title": {
+          "en-US": "ROI Calculator"
+        },
+        "description": {
+          "en-US": "Sample Excel workbook"
+        },
+        "file": {
+          "en-US": {
+            "url": "//assets.ctfassets.net/rv2gyq219937/asset-roi-calculator/a05e46f1fd5904c8441ec31c77d8e373/roi-calculator.xlsx",
+            "details": {
+              "size": 6958
+            },
+            "fileName": "roi-calculator.xlsx",
+            "contentType": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-trace-jit-whitepaper",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:40.978Z",
+        "updatedAt": "2026-10-22T21:22:42.938Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:42.938Z",
+        "firstPublishedAt": "2026-10-22T21:22:42.938Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-trace-jit-whitepaper"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Trace-based JIT Type Specialization (PLDI '09)"
+        },
+        "description": {
+          "en-US": "Sample PDF (pdf.js demo document)"
+        },
+        "file": {
+          "en-US": {
+            "url": "//assets.ctfassets.net/rv2gyq219937/asset-trace-jit-whitepaper/d54ac8e108071449749e34f0970f63ba/pldi-trace-based-jit.pdf",
+            "details": {
+              "size": 1016315
+            },
+            "fileName": "pldi-trace-based-jit.pdf",
+            "contentType": "application/pdf"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-product-demo-video",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:43.760Z",
+        "updatedAt": "2026-10-22T21:22:45.738Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:45.738Z",
+        "firstPublishedAt": "2026-10-22T21:22:45.738Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-product-demo-video"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Product Demo Video"
+        },
+        "description": {
+          "en-US": "CC0 sample video (MDN)"
+        },
+        "file": {
+          "en-US": {
+            "url": "//videos.ctfassets.net/rv2gyq219937/asset-product-demo-video/40f118fd9897736c282e4cb48bb43b17/product-demo.mp4",
+            "details": {
+              "size": 1128375
+            },
+            "fileName": "product-demo.mp4",
+            "contentType": "video/mp4"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-podcast-teaser",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:46.179Z",
+        "updatedAt": "2026-10-22T21:22:48.104Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:48.104Z",
+        "firstPublishedAt": "2026-10-22T21:22:48.104Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-podcast-teaser"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Podcast Teaser"
+        },
+        "description": {
+          "en-US": "CC0 sample audio (MDN)"
+        },
+        "file": {
+          "en-US": {
+            "url": "//assets.ctfassets.net/rv2gyq219937/asset-podcast-teaser/2a80770c559cf23eb3df8edf3b5ad8dd/podcast-teaser.mp3",
+            "details": {
+              "size": 39868
+            },
+            "fileName": "podcast-teaser.mp3",
+            "contentType": "audio/mpeg"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-macro-photography",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:48.913Z",
+        "updatedAt": "2026-10-22T21:22:50.866Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:50.866Z",
+        "firstPublishedAt": "2026-10-22T21:22:50.866Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-macro-photography"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Macro Photography Sample"
+        },
+        "description": {
+          "en-US": "Camponotus flavomarginatus ant (Wikimedia Commons, CC BY-SA)"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/rv2gyq219937/asset-macro-photography/510c9869e35e32859fc5b72f55a3c4d9/macro-photography.jpg",
+            "details": {
+              "size": 758559,
               "image": {
-                "width": 1920,
-                "height": 1080
+                "width": 1800,
+                "height": 1200
               }
             },
-            "fileName": "contentful-hero.webp",
-            "contentType": "image/webp"
+            "fileName": "macro-photography.jpg",
+            "contentType": "image/jpeg"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-event-photo-pack",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:22:53.186Z",
+        "updatedAt": "2026-10-22T21:22:55.182Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:22:55.182Z",
+        "firstPublishedAt": "2026-10-22T21:22:55.182Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-event-photo-pack"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Event Photo Pack"
+        },
+        "description": {
+          "en-US": "ZIP of sample photos (Wikimedia Commons)"
+        },
+        "file": {
+          "en-US": {
+            "url": "//downloads.ctfassets.net/rv2gyq219937/asset-event-photo-pack/cbd2d85c32528c1dda63195654104bbf/event-photo-pack.zip",
+            "details": {
+              "size": 11804066
+            },
+            "fileName": "event-photo-pack.zip",
+            "contentType": "application/zip"
+          }
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ],
+        "concepts": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "rv2gyq219937"
+          }
+        },
+        "id": "asset-platform-overview-cover",
+        "type": "Asset",
+        "createdAt": "2026-10-22T21:27:13.601Z",
+        "updatedAt": "2026-10-22T21:27:15.639Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2026-10-22T21:27:15.639Z",
+        "firstPublishedAt": "2026-10-22T21:27:15.639Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "1uYeCiJqupCd3UsVMZRFhQ"
+          }
+        },
+        "fieldStatus": {
+          "*": {
+            "en-US": "published"
+          }
+        },
+        "urn": "crn:contentful:::content:spaces/rv2gyq219937/environments/master/assets/asset-platform-overview-cover"
+      },
+      "fields": {
+        "title": {
+          "en-US": "Acme Platform Overview Cover"
+        },
+        "description": {
+          "en-US": "Title slide of the overview deck"
+        },
+        "file": {
+          "en-US": {
+            "url": "//images.ctfassets.net/rv2gyq219937/asset-platform-overview-cover/370f8997cf50379a413f4c366befe8b2/platform-overview-cover.png",
+            "details": {
+              "size": 40337,
+              "image": {
+                "width": 1200,
+                "height": 677
+              }
+            },
+            "fileName": "platform-overview-cover.png",
+            "contentType": "image/png"
           }
         }
       }

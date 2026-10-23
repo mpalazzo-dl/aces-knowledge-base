@@ -5,6 +5,7 @@ import path from "path";
 import inquirer from "inquirer";
 import chalk from "chalk";
 import { execSync } from "child_process";
+import { randomBytes } from "crypto";
 
 const projectName = "contentful-web";
 const targetDir = process.cwd();
@@ -95,6 +96,8 @@ async function setupContentfulWeb(targetDir: string, projectName: string) {
     },
   ]);
 
+  const previewSecret = randomBytes(24).toString("hex");
+
   const envContent = `NEXT_PUBLIC_CF_GTM_ID=${answers.gtmId}
 NEXT_PUBLIC_CF_GRAPHQL_URL=https://graphql.contentful.com/content/v1/spaces
 NEXT_PUBLIC_CF_APP_ID=${projectName}
@@ -104,10 +107,11 @@ NEXT_PUBLIC_CF_ACCESS_TOKEN=${answers.accessToken}
 NEXT_PUBLIC_CF_PREVIEW_ACCESS_TOKEN=${answers.previewToken}
 NEXT_CF_MANAGEMENT_TOKEN=${answers.cmaToken}
 NEXT_PUBLIC_SITE_URL=http://localhost:3000
+NEXT_PUBLIC_CF_PREVIEW_SECRET=${previewSecret}
 `.trim();
 
   fs.writeFileSync(path.join(targetDir, ".env"), envContent);
-  console.log("✅ .env.local created with Contentful credentials.");
+  console.log("✅ .env created with Contentful credentials.");
 
   try {
     console.log(chalk.blue("📥 Importing Contentful models..."));
@@ -119,15 +123,15 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
     console.log(chalk.blue("📥 Importing Contentful content..."));
     execSync("npm run import-content", { stdio: "inherit", cwd: targetDir });
 
+    console.log(chalk.blue("🔍 Configuring Live Preview URLs..."));
+    execSync("npm run create-previews", { stdio: "inherit", cwd: targetDir });
+
     console.log(
       chalk.greenBright.bold("\n🎉 Your ACES Contentful Website is ready!"),
     );
 
     console.log(`👉 Next steps:
-  ${chalk.cyan(`cd ${projectName}`)}
   ${chalk.cyan("npm run dev")}
-
-🔗 Docs: https://github.com/your-org/aces-docs
 `);
   } catch (err) {
     console.error(chalk.red("❌ An error occurred during setup:"), err);
